@@ -3,4 +3,4 @@
 ## Installation
 run `python install -r requirements.txt`
 
-![about](https://user-images.githubusercontent.com/107999456/175116310-01a0d447-bd2d-4fba-850b-9b5ad815bb34.png)
+![about](https://user-images.githubusercontent.com/107999456/175116651-f066366f-2800-4733-9f6e-2365e28c388d.png)
