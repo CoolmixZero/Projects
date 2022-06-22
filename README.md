@@ -3,4 +3,4 @@
 ## Installation
 run `python install -r requirements.txt`
 
-[Nikita's Resume.pdf](https://github.com/CoolmixZero/Projects/files/8960602/Nikita.s.Resume.pdf)
+![about](https://user-images.githubusercontent.com/107999456/175116310-01a0d447-bd2d-4fba-850b-9b5ad815bb34.png)
