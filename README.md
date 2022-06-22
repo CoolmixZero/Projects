@@ -1,5 +1,1 @@
-# Projects
-
-`python install -r requirements.txt`
-
-![about](https://user-images.githubusercontent.com/107999456/175116651-f066366f-2800-4733-9f6e-2365e28c388d.png)
+![Projects](https://user-images.githubusercontent.com/107999456/175120454-5d63d7d0-b24b-4995-bd3e-7797f42c7146.png)
