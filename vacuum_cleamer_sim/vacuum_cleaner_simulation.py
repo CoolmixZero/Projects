@@ -64,12 +64,11 @@ class Room:
 
         :return: True if there's no dust in the room False otherwise
         """
-        for line in self.room:
-            for dust_count in line:
-                if dust_count != 0:
-                    return False
-
-        return True
+#         for line in self.room:
+#             for dust_count in line:
+#                 if dust_count != 0:
+#                     return False
+        return all(dust_count == 0 for line in self.room for dust_count in line)
 
 
 class VacuumCleaner:
